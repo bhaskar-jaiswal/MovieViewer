@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bhaskarjaiswal/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_ae8350ea341efc713560b85c90cf9db585e934a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dea31e1672526bff1c8d802c9cb0798424746bef">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_441344740e9b1282ea3dcc547266ae257febf284/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_0e49ef2690ac98ce9ed1c9df6cb30bfe4f03987c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e245ba410210aad46625869fecc20f9b24f69bf2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.0_90585493ace4b93182cf0411727ee094aa9239b5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_8bacebd3ed707598a32d003279edcf2617d07193/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_89c927dec4624f4f54a5cda005f39c8647d0cbf8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_c365bb9393ca2e2cc85fb66ed5f1bfc174493545/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/jp.co.cyberagent.android.gpuimage/gpuimage-library/1.4.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.co.cyberagent.android.gpuimage-gpuimage-library-1.4.1_32e64231d84dac844cbcc94e760c69119d8a0248/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.2.1_a545b5a746c7c76d2ed833f0d6ce2692f94277c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_d9507b42ade63e9074063f3f203a918dce13c4bc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.2.1_fb77fed115634597b2afe3b240fe4addd7957f53/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_4c97d5b9c5ddf13def44a9e8affaac8e0c22f6b2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_925f936f4d49b618ccdaa56c38d306d2bc7cc376/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_49b213659c6145cbe2226d5a4af5b924042e0c35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="99a0f381e94353e99f1ddb98c51cbcd22834d652">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a56a8a47027f139198c9b69765536499cf8a92a6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/exploded-aar/jp.wasabeef/picasso-transformations/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="/Users/bhaskarjaiswal/CodePath/MovieViewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.wasabeef-picasso-transformations-2.1.0_06ee5fd0a7dfdaa35dfba1f6154e4af77401a722/classes.dex" />
+    </item>
+
+</items>

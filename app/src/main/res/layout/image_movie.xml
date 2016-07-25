@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ivImage_backdrop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        tools:src="@mipmap/ic_launcher" />
+
+    <ImageView
+        android:id="@+id/ivImage_playOverlay"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/play"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/tvTitle"
+        android:visibility="invisible"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:paddingTop="16dp"
+        tools:text="The Legend of Tarzan"
+        android:id="@+id/tvTitle"
+        android:layout_alignParentTop="@+id/ivImage_backdrop"
+        android:layout_toRightOf="@+id/ivImage_backdrop"
+        android:layout_toEndOf="@+id/ivImage_backdrop"
+        android:layout_gravity="center_vertical"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Tarzan, having acclimated to life in London, is called back to his former home in the jungle to investigate the activities at a mining encampment."
+        android:id="@+id/tvOverview"
+        android:layout_below="@+id/tvTitle"
+        android:layout_toRightOf="@+id/ivImage_backdrop"
+        android:layout_toEndOf="@+id/ivImage_backdrop"
+        android:layout_gravity="center_vertical"/>
+
+
+</RelativeLayout>
